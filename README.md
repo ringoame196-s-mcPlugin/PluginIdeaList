@@ -1,7 +1,7 @@
 # PluginIdeaList
 プラグインのアイデアリスト
 
-[] Qサーバー
+- Qサーバー
 - Discordでop付与 ホワリス キック BAN コマンド実行
 - 自動販売機
 - mode変更
