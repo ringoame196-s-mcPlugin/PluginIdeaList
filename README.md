@@ -1,6 +1,7 @@
 # PluginIdeaList
 プラグインのアイデアリスト
 
+ｰ 動く床
 - Qサーバー
 - Discordでop付与 ホワリス キック BAN コマンド実行
 - 自動販売機
